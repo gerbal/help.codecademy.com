@@ -4,6 +4,17 @@ article_id: '1402980'
 ---
 Yes. Here are the available shortcuts.
 
+  - &#8963; is the **control** key.
+  - &#9166; is the **return** key.
+  - &#8997; is the **option/alt** key.
+  - &#8984; is the **command** key.
+  - &#8679; is the **shift** key.
+  - &#8677; is the **tab** key.
+  - &#9003; is the **backspace** key.
+  - &#8998; is the **delete** key.
+  - &#8671; is the **PageDown** key.
+  - &#8670; is the **PageUp** key.
+
 <table>
     <thead>
         <tr>
@@ -203,7 +214,6 @@ Yes. Here are the available shortcuts.
                 <br>Mac: <code>&#8984; + &#8679; + &#8594;</code>
             </td>
             <td>Select to end of the current visual line.</td>
-        </tr>
         <tr>
             <td><code>&#8997; + &#8594;</code> or <code>End</code>
                 <br>Mac: <code>&#8984; + &#8594;</code> or <code>End</code> or <code>&#8963; + E</code>
