@@ -7,7 +7,7 @@ Yes. Here are the available shortcuts.
 <table>
     <thead>
         <tr>
-            <th style="width:190px;">Shortcut Key</th>
+            <th style="width:190px;">Key Shortcut</th>
             <th>Action</th>
         </tr>
     </thead>
