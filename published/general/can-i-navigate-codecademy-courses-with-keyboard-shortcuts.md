@@ -4,450 +4,460 @@ article_id: '1402980'
 ---
 Yes. Here are the available shortcuts.
 
+  - &#8963; is the **control** key.
+  - &#9166; is the **return** key.
+  - &#8997; is the **option/alt** key.
+  - &#8984; is the **command** key.
+  - &#8679; is the **shift** key.
+  - &#8677; is the **tab** key.
+  - &#9003; is the **backspace** key.
+  - &#8998; is the **delete** key.
+  - &#8671; is the **PageDown** key.
+  - &#8670; is the **PageUp** key.
+
 <table>
     <thead>
         <tr>
-            <th style="width:190px;">Shortcut Key</th>
+            <th style="width:190px;">Key Shortcut</th>
             <th>Action</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><strong>Ctrl + Return</strong>
-                <br>Mac: <strong>Cmd + return</strong>
+            <td><code>&#8963; + &#9166;</code>
+                <br>Mac: <code>&#8984; + &#9166;</code>
             </td>
             <td>Submits the code in an exercise.</td>
         </tr>
         <tr>
-            <td><strong>Alt + R</strong>
-                <br>Mac: <strong>Opt + R</strong>
+            <td><code>&#8997; + R</code>
+                <br>Mac: <code>&#8997; + R</code>
             </td>
             <td>Resets the code in an exercise to its original state.</td>
         </tr>
         <tr>
-            <td><strong>Alt + P</strong>
-                <br>Mac: <strong>Opt + P</strong>
+            <td><code>&#8997; + P</code>
+                <br>Mac: <code>&#8997; + P</code>
             </td>
             <td>Loads the next exercise. You won't lose any of your code in the current exercise.</td>
         </tr>
         <tr>
-            <td><strong>Alt + O</strong>
-                <br>Mac: <strong>Opt + O</strong>
+            <td><code>&#8997; + O</code>
+                <br>Mac: <code>&#8997; + O</code>
             </td>
             <td>Loads the previous exercise.</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + A</strong>
-                <br>Mac: <strong>Cmd + A</strong>
+            <td><code>&#8963; + A</code>
+                <br>Mac: <code>&#8984; + A</code>
             </td>
             <td>Selects all text</td>
         </tr>
         <tr>
             <td><em>Mac Only Supported</em>
-                <br>Mac: <strong>Ctrl + L</strong>
+                <br>Mac: <code>&#8963; + L</code>
             </td>
             <td>Centers selection.</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + L</strong>
-                <br>Mac: <strong>Cmd + L</strong>
+            <td><code>&#8963; + L</code>
+                <br>Mac: <code>&#8984; + L</code>
             </td>
             <td>Goto line (opens a dialogue).</td>
         </tr>
         <tr>
-            <td><strong>Alt + L</strong> or <strong>Ctrl + F1</strong>
-                <br>Mac: <strong>Cmd + Alt + L</strong> or <strong>Cmd + F1</strong>
+            <td><code>&#8997; + L</code> or <code>&#8963; + F1</code>
+                <br>Mac: <code>&#8984; + &#8997; + L</code> or <code>&#8984; + F1</code>
             </td>
             <td>Folds the active element.</td>
         </tr>
         <tr>
-            <td><strong>Alt + Shift + L</strong> or <strong>Ctrl + Shift + F1</strong>
-                <br>Mac: <strong>Cmd + Alt + Shift + L</strong> or <strong>Cmd + Shift + F1</strong>
+            <td><code>&#8997; + &#8679; + L</code> or <code>&#8963; + &#8679; + F1</code>
+                <br>Mac: <code>&#8984; + &#8997; + &#8679; + L</code> or <code>&#8984; + &#8679; + F1</code>
             </td>
             <td>Unfolds the active element.</td>
         </tr>
         <tr>
-            <td><strong>Alt + 0</strong>
-                <br>Mac: <strong>Cmd + Opt + 0</strong>
+            <td><code>&#8997; + 0</code>
+                <br>Mac: <code>&#8984; + &#8997; + 0</code>
             </td>
             <td>Folds all foldable elements.</td>
         </tr>
         <tr>
-            <td><strong>Alt + Shift + 0</strong>
-                <br>Mac: <strong>Cmd + Opt + Shift + 0</strong>
+            <td><code>&#8997; + &#8679; + 0</code>
+                <br>Mac: <code>&#8984; + &#8997; + &#8679; + 0</code>
             </td>
             <td>Unfolds all foldable elements.</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + K</strong>
-                <br>Mac: <strong>Cmd + G</strong>
+            <td><code>&#8963; + K</code>
+                <br>Mac: <code>&#8984; + G</code>
             </td>
             <td>Finds next instance of current selection.</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Shift + K</strong>
-                <br>Mac: <strong>Cmd + Shift + G</strong>
+            <td><code>&#8963; + &#8679; + K</code>
+                <br>Mac: <code>&#8984; + &#8679; + G</code>
             </td>
             <td>Finds previous instance of current selection.</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + F</strong>
-                <br>Mac: <strong>Cmd + F</strong>
+            <td><code>&#8963; + F</code>
+                <br>Mac: <code>&#8984; + F</code>
             </td>
             <td>Finds all instances of current selection. This behavior is automatic on selecting text.</td>
         </tr>
         <tr>
-            <td><strong>Insert</strong>
-            <br> Mac (pre-2007): <strong>Insert</strong>
+            <td><code>Insert</code>
+            <br> Mac (pre-2007): <code>Insert</code>
             </td>
             <td>Activates Insert most. Text is overwritten.</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Shift + Home</strong>
-                <br>Mac: <strong>Cmd + Shift + Up</strong>
+            <td><code>&#8963; + &#8679; + Home</code>
+                <br>Mac: <code>&#8984; + &#8679; + &#8593;</code>
             </td>
             <td>Selects from current location or selection to start.</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Home</strong>
-                <br>Mac: <strong>Cmd + Home</strong> or <strong>Cmd + Up</strong>
+            <td><code>&#8963; + Home</code>
+                <br>Mac: <code>&#8984; + Home</code> or <code>&#8984; + &#8593;</code>
             </td>
             <td>Go to start of document.</td>
         </tr>
         <tr>
-            <td><strong>Shift + Up</strong>
-                <br>Mac: <strong>Shift + Up</strong>
+            <td><code>&#8679; + &#8593;</code>
+                <br>Mac: <code>&#8679; + &#8593;</code>
             </td>
             <td>Selects from current location to same location on preceeding line</td>
         </tr>
         <tr>
-            <td><strong>Up</strong>
-                <br>Mac: <strong>Up</strong> or <strong>Ctrl + P</strong>
+            <td><code>&#8593;</code>
+                <br>Mac: <code>&#8593;</code> or <code>&#8963; + P</code>
             </td>
             <td>Go up one line</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Shift + End</strong>
-                <br>Mac: <strong>Cmd + Shift + Down</strong>
+            <td><code>&#8963; + &#8679; + End</code>
+                <br>Mac: <code>&#8984; + &#8679; + &#8595;</code>
             </td>
             <td>Selects from current location to end of document.</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + End</strong>
-                <br>Mac: <strong>Cmd + End</strong> or <strong>Cmd + Down</strong>
+            <td><code>&#8963; + End</code>
+                <br>Mac: <code>&#8984; + End</code> or <code>&#8984; + &#8595;</code>
             </td>
             <td>Goto end of current visual line.</td>
         </tr>
         <tr>
-            <td><strong>Shift + Down</strong>
-                <br>Mac: <strong>Shift + Down</strong>
+            <td><code>&#8679; + &#8595;</code>
+                <br>Mac: <code>&#8679; + &#8595;</code>
             </td>
             <td>Selects from current location to same location on following line.</td>
         </tr>
         <tr>
-            <td><strong>Down</strong>
-                <br>Mac: <strong>Down</strong> or <strong>Ctrl + N</strong>
+            <td><code>&#8595;</code>
+                <br>Mac: <code>&#8595;</code> or <code>&#8963; + N</code>
             </td>
             <td>Go down one line.</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Shift + Left</strong>
-                <br>Mac: <strong>Opt + Shift + Left</strong>
+            <td><code>&#8963; + &#8679; + &#8592;</code>
+                <br>Mac: <code>&#8997; + &#8679; + &#8592;</code>
             </td>
             <td>Selects the word to the left of the cursor</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Left</strong>
-                <br>Mac: <strong>Opt + Left</strong>
+            <td><code>&#8963; + &#8592;</code>
+                <br>Mac: <code>&#8997; + &#8592;</code>
             </td>
             <td>Go one word to the left</td>
         </tr>
         <tr>
-            <td><strong>Alt + Shift + Left</strong>
-                <br>Mac: <strong>Cmd + Shift + Left</strong>
+            <td><code>&#8997; + &#8679; + &#8592;</code>
+                <br>Mac: <code>&#8984; + &#8679; + &#8592;</code>
             </td>
             <td>Selects to the start of the current visual line</td>
         </tr>
         <tr>
-            <td><strong>Alt + Left</strong> or <strong>Home</strong>
-                <br>Mac: <strong>Cmd + Left</strong> or <strong>Home</strong> or <strong>Ctrl + A</strong>
+            <td><code>&#8997; + &#8592;</code> or <code>Home</code>
+                <br>Mac: <code>&#8984; + &#8592;</code> or <code>Home</code> or <code>&#8963; + A</code>
             </td>
             <td>Go to start of current visual line</td>
         </tr>
         <tr>
-            <td><strong>Shift + Left</strong>
-                <br>Mac: <strong>Shift + Left</strong>
+            <td><code>&#8679; + &#8592;</code>
+                <br>Mac: <code>&#8679; + &#8592;</code>
             </td>
             <td>Selects text to the left of the cursor</td>
         </tr>
         <tr>
-            <td><strong>Left</strong>
-                <br>Mac: <strong>Left</strong> or <strong>Ctrl + B</strong>
+            <td><code>&#8592;</code>
+                <br>Mac: <code>&#8592;</code> or <code>&#8963; + B</code>
             </td>
             <td>Go left</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Shift + Right</strong>
-                <br>Mac: <strong>Opt + Shift + Right</strong>
+            <td><code>&#8963; + &#8679; + &#8594;</code>
+                <br>Mac: <code>&#8997; + &#8679; + &#8594;</code>
             </td>
             <td>Select the word the the right.</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Right</strong>
-                <br>Mac: <strong>Opt + Right</strong>
+            <td><code>&#8963; + &#8594;</code>
+                <br>Mac: <code>&#8997; + &#8594;</code>
             </td>
             <td>Go one word to the right.</td>
         </tr>
         <tr>
-            <td><strong>Alt + Shift + Right</strong>
-                <br>Mac: <strong>Cmd + Shift + Right</strong>
+            <td><code>&#8997; + &#8679; + &#8594;</code>
+                <br>Mac: <code>&#8984; + &#8679; + &#8594;</code>
             </td>
             <td>Select to end of the current visual line.</td>
-        </tr>
         <tr>
-            <td><strong>Alt + Right</strong> or <strong>End</strong>
-                <br>Mac: <strong>Cmd + Right</strong> or <strong>End</strong> or <strong>Ctrl + E</strong>
+            <td><code>&#8997; + &#8594;</code> or <code>End</code>
+                <br>Mac: <code>&#8984; + &#8594;</code> or <code>End</code> or <code>&#8963; + E</code>
             </td>
             <td>Go to end of the current visual line.</td>
         </tr>
         <tr>
-            <td><strong>Shift + Right</strong>
-                <br>Mac: <strong>Shift + Right</strong>
+            <td><code>&#8679; + &#8594;</code>
+                <br>Mac: <code>&#8679; + &#8594;</code>
             </td>
             <td>Select to the right</td>
         </tr>
         <tr>
-            <td><strong>Right</strong>
-                <br>Mac: <strong>Right</strong> or <strong>Ctrl + F</strong>
+            <td><code>&#8594;</code>
+                <br>Mac: <code>&#8594;</code> or <code>&#8963; + F</code>
             </td>
             <td>Go right</td>
         </tr>
         <tr>
-            <td><strong>Shift + PageDown</strong>
+            <td><code>&#8679; + &#8671;</code>
             </td>
             <td>Selects to bottom of current page</td>
         </tr>
         <tr>
             <td><em>Mac Only Supported</em>
-                <br>Mac: <strong>Option + PageDown</strong>
+                <br>Mac: <code>&#8997; + &#8671;</code>
             </td>
             <td>Scroll down one page</td>
         </tr>
         <tr>
-            <td><strong>PageDown</strong>
-                <br>Mac: <strong>PageDown</strong> or <strong>Ctrl + V</strong>
+            <td><code>&#8671;</code>
+                <br>Mac: <code>&#8671;</code> or <code>&#8963; + V</code>
             </td>
             <td>Go down one page</td>
         </tr>
         <tr>
-            <td><strong>Shift + PageUp</strong>
+            <td><code>&#8679; + &#8670;</code>
             </td>
             <td>Selects from current location to start of current page.</td>
         </tr>
         <tr>
             <td><em>Mac Only Supported</em>
-                <br>Mac: <strong>Option + PageUp</strong>
+                <br>Mac: <code>&#8997; + &#8670;</code>
             </td>
             <td>Scroll up one page</td>
         </tr>
         <tr>
-            <td><strong>PageUp</strong>
+            <td><code>&#8670;</code>
             </td>
             <td>Go up one page</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Up</strong>
+            <td><code>&#8963; + &#8593;</code>
                 <br><em>Mac Not Supported</em>
             </td>
             <td>Scroll up</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Down</strong>
+            <td><code>&#8963; + &#8595;</code>
                 <br><em>Mac Not Supported</em>
             </td>
             <td>Scroll down</td>
         </tr>
         <tr>
-            <td><strong>Shift + Home</strong>
+            <td><code>&#8679; + Home</code>
             </td>
             <td>Select to start of current line</td>
         </tr>
         <tr>
-            <td><strong>Shift + End</strong>
+            <td><code>&#8679; + End</code>
             </td>
             <td>Select to end of current line</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + P</strong>
-                <br>Mac: <strong>Ctrl + Shift + P</strong>
+            <td><code>&#8963; + P</code>
+                <br>Mac: <code>&#8963; + &#8679; + P</code>
             </td>
             <td>Jump to matching special character</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Shift + P</strong>
+            <td><code>&#8963; + &#8679; + P</code>
                 <br><em>Mac Not Supported</em>
             </td>
             <td>Select to matching special character</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + D</strong>
-                <br>Mac: <strong>Cmd + D</strong>
+            <td><code>&#8963; + D</code>
+                <br>Mac: <code>&#8984; + D</code>
             </td>
             <td>Remove current line</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Shift + D</strong>
-                <br>Mac: <strong>Cmd + Shift + D</strong>
+            <td><code>&#8963; + &#8679; + D</code>
+                <br>Mac: <code>&#8984; + &#8679; + D</code>
             </td>
             <td>Duplicate selection or current line</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Alt + S</strong>
-                <br>Mac: <strong>Cmd + Alt + S</strong>
+            <td><code>&#8963; + &#8997; + S</code>
+                <br>Mac: <code>&#8984; + &#8997; + S</code>
             </td>
             <td>Sort selected lines.</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + /</strong>
-                <br>Mac: <strong>Cmd + /</strong>
+            <td><code>&#8963; + /</code>
+                <br>Mac: <code>&#8984; + /</code>
             </td>
             <td>Toggle comment.</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Shift + /</strong>
-                <br>Mac: <strong>Cmd + Shift + /</strong>
+            <td><code>&#8963; + &#8679; + /</code>
+                <br>Mac: <code>&#8984; + &#8679; + /</code>
             </td>
             <td>Toggle block comment</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Shift + Up</strong>
-                <br>Mac: <strong>Alt + Shift + Up</strong>
+            <td><code>&#8963; + &#8679; + &#8593;</code>
+                <br>Mac: <code>&#8997; + &#8679; + &#8593;</code>
             </td>
             <td>Increment number to left of cursor up.</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Shift + Down</strong>
-                <br>Mac: <strong>Alt + Shift + Down</strong>
+            <td><code>&#8963; + &#8679; + &#8595;</code>
+                <br>Mac: <code>&#8997; + &#8679; + &#8595;</code>
             </td>
             <td>Increment number to left of cursor down.</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Z</strong>
-                <br>Mac: <strong>Cmd + Z</strong>
+            <td><code>&#8963; + Z</code>
+                <br>Mac: <code>&#8984; + Z</code>
             </td>
             <td>Undo</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Shift + Z</strong> or <strong>Ctrl + Y</strong>
-                <br>Mac: <strong>Cmd + Shift + Z</strong> or <strong>Cmd + Y</strong>
+            <td><code>&#8963; + &#8679; + Z</code> or <code>&#8963; + Y</code>
+                <br>Mac: <code>&#8984; + &#8679; + Z</code> or <code>&#8984; + Y</code>
             </td>
             <td>Redo</td>
         </tr>
         <tr>
-            <td><strong>Alt + Shift + Up</strong>
-                <br>Mac: <strong>Cmd + Opt + Up</strong>
+            <td><code>&#8997; + &#8679; + &#8593;</code>
+                <br>Mac: <code>&#8984; + &#8997; + &#8593;</code>
             </td>
             <td>Copy current line up</td>
         </tr>
         <tr>
-            <td><strong>Alt + Up</strong>
-                <br>Mac: <strong>Opt + Up</strong>
+            <td><code>&#8997; + &#8593;</code>
+                <br>Mac: <code>&#8997; + &#8593;</code>
             </td>
             <td>Move current line up</td>
         </tr>
         <tr>
-            <td><strong>Alt + Shift + Down</strong>
-                <br>Mac: <strong>Cmd + Opt + Down</strong>
+            <td><code>&#8997; + &#8679; + &#8595;</code>
+                <br>Mac: <code>&#8984; + &#8997; + &#8595;</code>
             </td>
             <td>Copy current line down</td>
         </tr>
         <tr>
-            <td><strong>Alt + Down</strong>
-                <br>Mac: <strong>Option + Down</strong>
+            <td><code>&#8997; + &#8595;</code>
+                <br>Mac: <code>&#8997; + &#8595;</code>
             </td>
             <td>Move current line down</td>
         </tr>
         <tr>
-            <td><strong>Delete or Shift + Delete</strong>
-                <br>Mac: <strong>Delete</strong> or <strong>Ctrl + D</strong> or <strong>Shift + Delete</strong>
+            <td><code>&#8998; or &#8679; + &#8998;</code>
+                <br>Mac: <code>&#8998;</code> or <code>&#8963; + D</code> or <code>&#8679; + &#8998;</code>
             </td>
-            <td>Delete</td>
+            <td>Forward Delete</td>
         </tr>
         <tr>
-            <td><strong>Shift + Backspace</strong> or <strong>Backspace</strong>
-                <br>Mac: <strong>Ctrl + Backspace</strong> or <strong>Shift + Backspace</strong> or <strong>Backspace</strong> or <strong>Ctrl + H</strong>
+            <td><code>&#8679; + &#9003;</code> or <code>&#9003;</code>
+                <br>Mac: <code>&#8963; + &#9003;</code> or <code>&#8679; + &#9003;</code> or <code>&#9003;</code> or <code>&#8963; + H</code>
             </td>
-            <td>backspace</td>
+            <td>Backspace</td>
         </tr>
         <tr>
-            <td><strong>Alt + Backspace</strong>
-                <br>Mac: <strong>Cmd + Backspace</strong>
+            <td><code>&#8997; + &#9003;</code>
+                <br>Mac: <code>&#8984; + &#9003;</code>
             </td>
             <td>Remove to line start</td>
         </tr>
         <tr>
-            <td><strong>Alt + Delete</strong>
-                <br>Mac: <strong>Ctrl + K</strong>
+            <td><code>&#8997; + &#8998;</code>
+                <br>Mac: <code>&#8963; + K</code>
             </td>
             <td>Remove to line end</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Backspace</strong>
-                <br>Mac: <strong>Alt + Backspace</strong> or <strong>Ctrl + Alt + Backspace</strong>
+            <td><code>&#8963; + &#9003;</code>
+                <br>Mac: <code>&#8997; + &#9003;</code> or <code>&#8963; + &#8997; + &#9003;</code>
             </td>
             <td>Remove the word to the left</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Delete</strong>
-                <br>Mac: <strong>Alt + Delete</strong>
+            <td><code>&#8963; + &#8998;</code>
+                <br>Mac: <code>&#8997; + &#8998;</code>
             </td>
             <td>Remove the word to the right</td>
         </tr>
         <tr>
-            <td><strong>Shift + Tab</strong>
-                <br>Mac: <strong>Shift + Tab</strong>
+            <td><code>&#8679; + &#8677;</code>
+                <br>Mac: <code>&#8679; + &#8677;</code>
             </td>
             <td>Un-indent</td>
         </tr>
         <tr>
-            <td><strong>Tab</strong>
-                <br>Mac: <strong>Tab</strong>
+            <td><code>&#8677;</code>
+                <br>Mac: <code>&#8677;</code>
             </td>
             <td>Indent</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + [</strong>
-                <br>Mac: <strong>Ctrl + [</strong>
+            <td><code>&#8963; + [</code>
+                <br>Mac: <code>&#8963; + [</code>
             </td>
             <td>Block Unindent</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + ]</strong>
-                <br>Mac: <strong>Ctrl + ]</strong>
+            <td><code>&#8963; + ]</code>
+                <br>Mac: <code>&#8963; + ]</code>
             </td>
             <td>Block indent</td>
         </tr>
         <tr>
-            <td><em>Mac Only</strong>
-                <br>Mac: <strong>Ctrl + O</strong>
+            <td><em>Mac Only Supported</em>
+                <br>Mac: <code>&#8963; + O</code>
             </td>
             <td>Split current line</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + T</strong>
-                <br>Mac: <strong>Ctrl + T</strong>
+            <td><code>&#8963; + T</code>
+                <br>Mac: <code>&#8963; + T</code>
             </td>
             <td>Transpose letters</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + U</strong>
-                <br>Mac: <strong>Ctrl + U</strong>
+            <td><code>&#8963; + U</code>
+                <br>Mac: <code>&#8963; + U</code>
             </td>
             <td>Uppercase selection</td>
         </tr>
         <tr>
-            <td><strong>Ctrl + Shift + U</strong>
-                <br>Mac: <strong>Ctrl + Shift + U</strong>
+            <td><code>&#8963; + &#8679; + U</code>
+                <br>Mac: <code>&#8963; + &#8679; + U</code>
             </td>
             <td>Downcase selection</td>
         </tr>
